@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Build files and large binaries
+src-python/build/
+*.pkg
+*.exe
+*.msi
+*.dmg
+*.deb
+*.rpm
