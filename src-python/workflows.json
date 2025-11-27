@@ -1,0 +1,52 @@
+{
+  "testar": [
+    {
+      "action": "open_app",
+      "params": { "path": "notepad" }
+    }
+  ],
+  "jogar": [
+    {
+      "action": "open_app",
+      "params": { "path": "spotify" }
+    },
+    {
+      "action": "press_key",
+      "params": { "key": "p" }
+    }
+  ],
+  "trabalhar": [
+    {
+      "action": "open_app",
+      "params": { "path": "code" }
+    },
+    {
+      "action": "open_app",
+      "params": { "path": "chrome" }
+    }
+  ],
+  "codigo": [
+    {
+      "action": "open_app",
+      "params": { "path": "code" }
+    }
+  ],
+  "calculadora": [
+    {
+      "action": "open_app",
+      "params": { "path": "calc" }
+    }
+  ],
+  "copiar": [
+    {
+      "action": "press_hotkey",
+      "params": { "keys": ["ctrl", "c"] }
+    }
+  ],
+  "colar": [
+    {
+      "action": "press_hotkey",
+      "params": { "keys": ["ctrl", "v"] }
+    }
+  ]
+}

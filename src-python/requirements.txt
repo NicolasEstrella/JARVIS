@@ -1,0 +1,13 @@
+pyaudio
+vosk
+keyboard
+pyautogui
+colorama
+unidecode
+numpy
+pyinstaller
+speechrecognition
+pydub
+watchdog
+pycaw
+comtypes
